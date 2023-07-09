@@ -27,7 +27,7 @@ module.exports = {
       },
     },
     fontFamily: {
-      'BebasNeue': ['Bebas Neue', 'sans-serif']
+      'sharemono': ["Share Tech Mono"]
     }
   },
   plugins: [],
