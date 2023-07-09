@@ -9,9 +9,8 @@ module.exports = {
   ],
   theme: {
     colors: {
-      'prim': '#2b2926',
-      'sec': '#e9e5d0',
-      'acc': '#e0332b',
+      'prim': '#010000',
+      'sec': '#d6d1c5',
       black: colors.black,
       white: colors.white,
       gray: colors.gray,
@@ -27,6 +26,9 @@ module.exports = {
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
     },
+    fontFamily: {
+      'BebasNeue': ['Bebas Neue', 'sans-serif']
+    }
   },
   plugins: [],
 }
